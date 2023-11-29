@@ -1,0 +1,17 @@
+Follow this 4 step process to run SALSython:
+
+Step 1: Paste the Salsython.py and plotter.py files in your working directory.
+
+Step 2: Depending on whether your system is Windows, Mac, or Linux** based, paste the libraries within the 'Libraries' folder into your working directory. 	
+
+Step 3: Open Salsython.py and make changes to input parameters.
+
+Step 4: Run Salsython.py. If terminal, run using: python3 Salsython.py
+
+If you experience problems contact developers: pbhuvankar@lbl.gov or acihan@lbl.gov
+
+
+**Note: Linux support is only available for the following python versions:
+python 3.6
+python 3.8.8
+python 3.9.12
